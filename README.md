@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leticia Novaes!</h1>
+<h1 style="text-align=center;">Hi, I'm Leticia Novaes!</h1>
 
 
 
