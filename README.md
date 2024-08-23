@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Leticia Novaes!</h1>
 
+<p>Olá! Me chamo Leticia, tenho 19 anos, estou no segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
+
 
 
 <!---
