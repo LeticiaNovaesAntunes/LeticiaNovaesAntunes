@@ -1,3 +1,4 @@
+<link type="stylesheet" type="text/css" href="CSS.css">
 <p>Hi, I'm Leticia Novaes!</p>
 
 
