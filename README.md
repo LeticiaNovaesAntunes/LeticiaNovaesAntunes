@@ -8,7 +8,7 @@
 
 
 <h4>Contato: </h4>
-<a href="mailto:seu-email@dominio.com">
+<a href="mailto:leticia.n.antunes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
