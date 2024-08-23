@@ -3,12 +3,7 @@
 <p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
 <h4>Knowledges: </h4>
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+
 
 
 
