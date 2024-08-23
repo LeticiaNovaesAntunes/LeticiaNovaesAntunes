@@ -4,12 +4,13 @@
 
 <h4>Knowledges: </h4>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> **Python** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> **JavaScript** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> **Java** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> **C++** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50"/> **HTML5** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50"/> **CSS3**
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-png-transparent.png" alt="PHP" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/>
 </p>
 
 <h4>Contato: </h4>
