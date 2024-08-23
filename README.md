@@ -7,8 +7,8 @@
   <li>📚  HTML | CSS | PHP | C | Java | SQL</li> 
 </ul>
 
-<h5>Knowledgs:</h5>
-<img size="200px" src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"/>
+<h4>Knowledgs:</h4>
+
 
 
 <!---
