@@ -8,7 +8,7 @@
 </ul>
 
 <h5>Knowledgs:</h5>
-<img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"/>
+<img size="200px" src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"/>
 
 
 <!---
