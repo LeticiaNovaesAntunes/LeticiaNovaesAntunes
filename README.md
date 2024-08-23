@@ -3,15 +3,6 @@
 <p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
 <h4>Knowledges: </h4>
-<ul>
-    <li>    HTM L</li>
-    <li>    C</li>
-    <li>    PHP</li>
-    <li>🎨 CSS </li>
-    <li>   SQL</li>
-    <li>🐍 Phyton</li>
-</ul>
-
 
 
 <h4>Contato: </h4>
