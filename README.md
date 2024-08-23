@@ -3,12 +3,6 @@
 <p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
 <h4>Knowledges: </h4>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30"/>
 
 
 <h4>Contato: </h4>
