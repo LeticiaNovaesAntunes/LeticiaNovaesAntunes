@@ -8,7 +8,7 @@
 </ul>
 
 <h5>Knowledgs:</h5>
-<img src="![image](https://github.com/user-attachments/assets/6d0b2958-de69-444a-8c92-80ff411b056c)"/>
+<img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"/>
 
 
 <!---
