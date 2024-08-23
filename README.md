@@ -3,7 +3,7 @@
 <p>Olá! Me chamo Leticia, tenho 19 anos, estou no segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
 <h3>Knowledges: </h3>
-<button style="background-color: grey; "> HTML5 </button>
+<button> HTML5 </button>
 
 
 
