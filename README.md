@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leticia Novaes!</h1>
-
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/aa1b9b5634dda77baf641289c954706379a6063187ed5814d6cac33f589ba764/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d3961353466362673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d48454c4c4f2c2b697427732b45737465722b416d6172616c2b68657265213b57656c636f6d652b746f2b6d792b67697468756221" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=9a54f6&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+it's++here!;Welcome+to+my+github!" style="max-width: 100%;"></a></p>
 <p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
 <h4>Knowledges: </h4>
