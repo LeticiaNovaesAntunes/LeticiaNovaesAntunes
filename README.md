@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&color=FF1A75&width=435&lines=Ol%C3%A1%2C+I'm+Let%C3%ADcia+Novaes;Welcome%2C+to+my+Github+page+!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF1A75&width=435&lines=Ol%C3%A1%2C+I'm+Let%C3%ADcia+Novaes;Welcome%2C+to+my+Github+page+!" alt="Typing SVG" /></a>
 
 <p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
