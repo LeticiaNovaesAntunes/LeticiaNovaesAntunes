@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leticia Novaes!</h1>
-<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=9a54f6&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HI,+I'm,+Leticia Novaes+!" style="max-width: 100%;"></a></p>
+
 <p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
 
 <h4>Knowledges: </h4>
