@@ -1,6 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF1A75&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+I'm+Let%C3%ADcia+Novaes+!;Welcome+to+my+github+!" alt="Typing SVG" /></a>
 
-<p>Olá! Me chamo Leticia, tenho 19 anos, sou técnica em informatica e atualmente estou cursando o segundo semestre de Ciência da Computação. Entusiasta da tecnologia sou apaixonada por aprender coisas novas.</p>
+<p>Olá! Me chamo Letícia, tenho 19 anos, sou técnica em Informática e atualmente estou no quarto semestre de Ciência da Computação. Sou uma entusiasta da tecnologia e apaixonada por aprender coisas novas todos os dias.</p>
+
+<p>Atualmente, estou estagiando na área de Desenvolvimento de Software na V$ Company, onde tenho a oportunidade de crescer profissionalmente e aprender na prática com tecnologias como <strong>Node.js</strong>, <strong>React</strong>, <strong>MongoDB</strong>, além de ferramentas como <strong>Jira</strong> e metodologias ágeis.</p>
+
+<p>Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora!</p>
 
 <h4>Knowledges: </h4>
 <p>
