@@ -2,7 +2,7 @@
 
 <p>Olá! Me chamo Letícia, tenho 19 anos, sou técnica em Informática e atualmente estou no quarto semestre de Ciência da Computação. Sou uma entusiasta da tecnologia e apaixonada por aprender coisas novas todos os dias.</p>
 
-<p>Atualmente, estou estagiando na área de Desenvolvimento de Software na V$ Company, onde tenho a oportunidade de crescer profissionalmente e aprender na prática com tecnologias como <strong>Node.js</strong>, <strong>React</strong>, <strong>MongoDB</strong>, além de ferramentas como <strong>Jira</strong> e metodologias ágeis.</p>
+<p>Atualmente, estou estagiando na área de Desenvolvimento de Software na V4 Company, onde tenho a oportunidade de crescer profissionalmente e aprender na prática com tecnologias como <strong>Node.js</strong>, <strong>React</strong>, <strong>MongoDB</strong>, além de ferramentas como <strong>Jira</strong> e metodologias ágeis.</p>
 
 <p>Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora!</p>
 
